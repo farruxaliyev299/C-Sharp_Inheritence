@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFantasyWorld", "MyFantasyWorld\MyFantasyWorld.csproj", "{36F69A1E-3896-4C42-83A8-ECC256BDBDBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F69A1E-3896-4C42-83A8-ECC256BDBDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F69A1E-3896-4C42-83A8-ECC256BDBDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F69A1E-3896-4C42-83A8-ECC256BDBDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F69A1E-3896-4C42-83A8-ECC256BDBDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D09BE80A-CFEC-436A-B503-146A1E82F8B3}
+	EndGlobalSection
+EndGlobal

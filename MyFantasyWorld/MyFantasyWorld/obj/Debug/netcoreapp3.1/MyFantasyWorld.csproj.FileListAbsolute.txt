@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\bin\Debug\netcoreapp3.1\MyFantasyWorld.exe
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\bin\Debug\netcoreapp3.1\MyFantasyWorld.deps.json
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\bin\Debug\netcoreapp3.1\MyFantasyWorld.runtimeconfig.json
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\bin\Debug\netcoreapp3.1\MyFantasyWorld.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\bin\Debug\netcoreapp3.1\MyFantasyWorld.dll
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\bin\Debug\netcoreapp3.1\MyFantasyWorld.pdb
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\obj\Debug\netcoreapp3.1\MyFantasyWorld.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\obj\Debug\netcoreapp3.1\MyFantasyWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\obj\Debug\netcoreapp3.1\MyFantasyWorld.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\obj\Debug\netcoreapp3.1\MyFantasyWorld.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\obj\Debug\netcoreapp3.1\MyFantasyWorld.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\obj\Debug\netcoreapp3.1\MyFantasyWorld.dll
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\obj\Debug\netcoreapp3.1\MyFantasyWorld.pdb
+C:\Users\DELL\Desktop\Code Academy\Inheritence\MyFantasyWorld\MyFantasyWorld\obj\Debug\netcoreapp3.1\MyFantasyWorld.genruntimeconfig.cache
